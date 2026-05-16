@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Premium Personal Portfolio
 
 A highly polished, responsive personal portfolio website designed for **Amanulhaq**. This project showcases academic achievements, technical skills, and a comprehensive list of completed web development projects through a modern, multi-page user experience.
@@ -78,3 +79,7 @@ A vertically centered communication hub with direct email/phone links and a clea
 This project is open-source and free to use for personal portfolio development.
 
 
+=======
+# Portfolio
+Futuristic portfolio website with premium UI, smooth animations, and modern glassmorphism aesthetics.
+>>>>>>> 56c4e4a11f7d955ae7bd2d499eb25e83cfa3feed
